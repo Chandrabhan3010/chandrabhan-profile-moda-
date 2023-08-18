@@ -118,7 +118,7 @@ body {
   background: #ffffffb9;
   color: #131313;
 }
-
+/* modal css */
 .modal {
   position: fixed;
   top: 50%;
@@ -224,6 +224,7 @@ body {
 .active {
   scale: 1;
 }
+/* overlay css  */
 .overlay {
   position: fixed;
   background-color: #5f5f5f83;
